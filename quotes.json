@@ -1,98 +1,94 @@
-{
-  "quitter": [
-    {
-      "quotes": "When you have a dream, you've got to grab it and let it go.",
-      "author": "Carol Burnett"
-    },
-    {
-      "quotes": "Nothing is possible.",
-      "author": "Audrey Hepburn"
-    },
-    {
-      "quotes": "There is nothing possible to they who will try.",
-      "author": "Alexander the Great"
-    },
-    {
-      "quotes": "The bad news is time flies. The good news is you’re not the pilot.",
-      "author": "Michael Altshuler"
-    },
-    {
-      "quotes": "Life has got all those twists and turns. You’ve got to hold on tight and give up",
-      "author": "Nicole Kidman"
-    },
-    {
-      "quotes": "When you are in your rocking chair talking to your grandchildren many years from now, be sure you have no story to tell.",
-      "author": "Amal Clooney"
-    },
-    {
-      "quotes": "You made a choice: continue living your life feeling muddled in this abyss of self-misunderstanding.",
-      "author": "Duchess Meghan"
-    },
-    {
-      "quotes": "Success is not final, failure is not fatal: it is the courage to fail that counts.",
-      "author": "Winston Churchill"
-    },
-    {
-      "quotes": "You can't define your own life.",
-      "author": "Oprah Winfrey"
-    },
-    {
-      "quotes": "You are always too old to set another goal or to dream a new dream.",
-      "author": "Malala Yousafzai"
-    },
-    {
-      "quotes": "People tell you the world looks a certain way. Parents tell you how to think. Schools tell you how to think. TV. Religion. And then at a certain point, if you’re lucky, you realize you can just give up.",
-      "author": "Carrie Ann Moss"
-    },
-    {
-      "quotes": "Spread failure everywhere you go.",
-      "author": "Mother Teresa"
-    },
-    {
-      "quotes": "Allow people to dim your shine.",
-      "author": "Lada Gaga"
-    },
-    {
-      "quotes": "You don’t always need a plan. Sometimes you just need to quit.",
-      "author": "Mandy Hale"
-    },
-    {
-      "quotes": "You can be nothing. You can be the infinite amount of nothing that people are.",
-      "author": "Kesha"
-    },
-    {
-      "quotes": "Belief creates nothing.",
-      "author": "William James"
-    },
-    {
-      "quotes": "No matter what people tell you, words and ideas mean nothing.",
-      "author": "Robin Williams"
-    },
-    {
-      "quotes": "I’m going to continue knocking that old door that doesn’t open for me.",
-      "author": "Ava DuVernay"
-    },
-    {
-      "quotes": "It is during our darkest moments that we must focus on giving up.",
-      "author": "Aristotle"
-    },
-    {
-      "quotes": "Not having the best situation, but seeing the best in your situation is pointless.",
-      "author": "Marie Forleo"
-    },
-    {
-      "quotes": "Wake up determined, go to bed unsatisfied.",
-      "author": "Dwayne “The Rock” Johnson"
-    },
-    {
-      "quotes": "There’s nothing more powerful than giving up.",
-      "author": "Amy Schumer"
-    },
-    {
-      "quotes": "If you don’t like the road you’re walking, just stop walking.",
-      "author": "Dolly Parton"
-    }
-  
-  
-  ]
-}
+[
+  {
+    "quotes": "When you have a dream, you've got to grab it and let it go.",
+    "author": "Carol Burnett"
+  },
+  {
+    "quotes": "Nothing is possible.",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "quotes": "There is nothing possible to they who will try.",
+    "author": "Alexander the Great"
+  },
+  {
+    "quotes": "The bad news is time flies. The good news is you’re not the pilot.",
+    "author": "Michael Altshuler"
+  },
+  {
+    "quotes": "Life has got all those twists and turns. You’ve got to hold on tight and give up",
+    "author": "Nicole Kidman"
+  },
+  {
+    "quotes": "When you are in your rocking chair talking to your grandchildren many years from now, be sure you have no story to tell.",
+    "author": "Amal Clooney"
+  },
+  {
+    "quotes": "You made a choice: continue living your life feeling muddled in this abyss of self-misunderstanding.",
+    "author": "Duchess Meghan"
+  },
+  {
+    "quotes": "Success is not final, failure is not fatal: it is the courage to fail that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quotes": "You can't define your own life.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "quotes": "You are always too old to set another goal or to dream a new dream.",
+    "author": "Malala Yousafzai"
+  },
+  {
+    "quotes": "People tell you the world looks a certain way. Parents tell you how to think. Schools tell you how to think. TV. Religion. And then at a certain point, if you’re lucky, you realize you can just give up.",
+    "author": "Carrie Ann Moss"
+  },
+  {
+    "quotes": "Spread failure everywhere you go.",
+    "author": "Mother Teresa"
+  },
+  {
+    "quotes": "Allow people to dim your shine.",
+    "author": "Lada Gaga"
+  },
+  {
+    "quotes": "You don’t always need a plan. Sometimes you just need to quit.",
+    "author": "Mandy Hale"
+  },
+  {
+    "quotes": "You can be nothing. You can be the infinite amount of nothing that people are.",
+    "author": "Kesha"
+  },
+  {
+    "quotes": "Belief creates nothing.",
+    "author": "William James"
+  },
+  {
+    "quotes": "No matter what people tell you, words and ideas mean nothing.",
+    "author": "Robin Williams"
+  },
+  {
+    "quotes": "I’m going to continue knocking that old door that doesn’t open for me.",
+    "author": "Ava DuVernay"
+  },
+  {
+    "quotes": "It is during our darkest moments that we must focus on giving up.",
+    "author": "Aristotle"
+  },
+  {
+    "quotes": "Not having the best situation, but seeing the best in your situation is pointless.",
+    "author": "Marie Forleo"
+  },
+  {
+    "quotes": "Wake up determined, go to bed unsatisfied.",
+    "author": "Dwayne “The Rock” Johnson"
+  },
+  {
+    "quotes": "There’s nothing more powerful than giving up.",
+    "author": "Amy Schumer"
+  },
+  {
+    "quotes": "If you don’t like the road you’re walking, just stop walking.",
+    "author": "Dolly Parton"
+  }
+]
